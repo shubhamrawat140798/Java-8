@@ -26,6 +26,7 @@
 
 ## AverageSalary.java 
 ### Output
+![image](https://user-images.githubusercontent.com/46570973/194168805-ad546bd5-afa6-49ec-9840-514f1d16ac2e.png)
 
 ## NthLargest.java 
 ### Output
