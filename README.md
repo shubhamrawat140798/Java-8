@@ -19,3 +19,7 @@
 ## BottomEarner.java
 ### Output
 ![image](https://user-images.githubusercontent.com/46570973/194139647-86781413-a9de-4d97-9f73-72424b22108a.png)
+
+## SortEmpByName.java 
+### Output
+![image](https://user-images.githubusercontent.com/46570973/194143760-a88a3c10-5cf5-4464-86d0-4a910b29cc58.png)
