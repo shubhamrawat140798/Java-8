@@ -16,3 +16,6 @@
 ### Output
 ![image](https://user-images.githubusercontent.com/46570973/194138807-06b7b90e-b0be-42ed-b9ee-40cbdb73b813.png)
 
+## BottomEarner.java
+### Output
+![image](https://user-images.githubusercontent.com/46570973/194139647-86781413-a9de-4d97-9f73-72424b22108a.png)
