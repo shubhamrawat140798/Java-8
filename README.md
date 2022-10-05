@@ -23,3 +23,10 @@
 ## SortEmpByName.java 
 ### Output
 ![image](https://user-images.githubusercontent.com/46570973/194143760-a88a3c10-5cf5-4464-86d0-4a910b29cc58.png)
+
+## AverageSalary.java 
+### Output
+
+## NthLargest.java 
+### Output
+![image](https://user-images.githubusercontent.com/46570973/194168418-f32500be-c05d-4205-aaee-ce9f1b63edfe.png)
