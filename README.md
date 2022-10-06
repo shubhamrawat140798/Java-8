@@ -31,3 +31,8 @@
 ## NthLargest.java 
 ### Output
 ![image](https://user-images.githubusercontent.com/46570973/194168418-f32500be-c05d-4205-aaee-ce9f1b63edfe.png)
+
+## highestEarnerDept.java 
+### Output
+![image](https://user-images.githubusercontent.com/46570973/194334721-cdabea03-b17c-4895-adc3-9d6e98ba2252.png)
+
